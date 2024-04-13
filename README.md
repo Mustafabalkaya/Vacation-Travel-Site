@@ -12,7 +12,7 @@ This project is a web application developed using ASP.NET MVC, HTML, CSS, and Ja
 
 4. **Migration:** Database migration is implemented for easy and efficient database management. This ensures that the database schema stays updated with the latest changes in the application.
 
-## Technologies Used
+## Technologies Used 
 
 - ASP.NET MVC
 - HTML
